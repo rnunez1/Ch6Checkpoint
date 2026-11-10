@@ -1,6 +1,7 @@
-.icon {
-  height: 32px;
-  vertical-align: middle;
-  margin-right: 0.5rem;
-  border-radius: 4px;
+.hero {
+  width: 100%;
+  height: auto;
+  aspect-ratio: 4 / 1;
+  object-fit: cover;
+  border-radius: 8px;
 }
